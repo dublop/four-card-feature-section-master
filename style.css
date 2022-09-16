@@ -99,9 +99,6 @@ header {
 }
 
 @media (min-width: 1000px) {
-    header {
-        padding: 0 680px;
-    }
     .cards-container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
