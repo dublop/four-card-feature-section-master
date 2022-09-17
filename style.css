@@ -64,7 +64,7 @@ header {
     padding: 20px 30px;
     background-color: white;
     border-radius: 10px;
-    box-shadow: 1px 10px 10px var(--grayish-blue);
+    box-shadow: 12px 7px 20px 6px rgb(57 75 84 / 8%);
 }
 .card-1{
     border-top: 5px solid var(--cyan);
